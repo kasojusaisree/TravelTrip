@@ -1,0 +1,46 @@
+.confirmation-container {
+  width: 600px;
+  margin: auto;
+}
+
+.form-heading {
+  color: #1e293b;
+  margin-bottom: 25px;
+}
+
+.details-card {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.details-card h3 {
+  margin-top: 0;
+  color: #2563eb;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+.previous-btn,
+.next-btn {
+  width: 120px;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.previous-btn {
+  background: #dbeafe;
+  color: #2563eb;
+}
+
+.next-btn {
+  background: #2563eb;
+  color: white;
+}

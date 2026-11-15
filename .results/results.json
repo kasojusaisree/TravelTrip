@@ -1,0 +1,688 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"Confirmation\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element starting with text content as \"Confirm your details\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Name\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "HTML paragraph element should contain text content as the value of the name provided in the \"Your Details\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_5",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Start Location\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_6",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"End Location\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_7",
+      "evaluation_result": "CORRECT",
+      "title": "HTML paragraph element should contain text content as the value of the start location provided in the \"Your Details\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_8",
+      "evaluation_result": "CORRECT",
+      "title": "HTML paragraph element should contain text content as the value of the end location provided in the \"Your Details\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_9",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Start Date\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_10",
+      "evaluation_result": "CORRECT",
+      "title": "HTML paragraph element should contain text content as the value of the start date provided in the \"Date Selection\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_11",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"End Date\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_12",
+      "evaluation_result": "CORRECT",
+      "title": "HTML paragraph element should contain text content as the value of the end date provided in the \"Date Selection\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_13",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Guests\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_14",
+      "evaluation_result": "CORRECT",
+      "title": "HTML paragraph element should contain text content as the total count of the Guests provided in the \"Guests\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_15",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Travel Assistance\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_16",
+      "evaluation_result": "CORRECT",
+      "title": "HTML paragraph element should contain text content as the option of the Travel Assistance provided in the \"Travel Assistance\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_17",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Cancel\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_18",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Confirm\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_19",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Cancel\" button is clicked, then the previously filled data should disappear and \"Your Details\" step should be displayed, and the \"Your Details\" step should be active",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_20",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Confirm\" button is clicked, then the page should consist of an HTML image element with alt as \"Success\" and src as the given image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_21",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Confirm\" button is clicked, then the page should consist of an HTML heading element with text content as \"Awesome\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_22",
+      "evaluation_result": "CORRECT",
+      "title": "When the details are confirmed, then the page should consist of an HTML paragraph element with text content as \"Your booking has been confirmed\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_23",
+      "evaluation_result": "CORRECT",
+      "title": "When the details are confirmed, then the page should consist of an HTML button element with text content as \"Book New Trip\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_24",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Book New Trip\" button is clicked, then the previously filled data should disappear and \"Your Details\" step should be displayed, and the \"Your Details\" step should be active",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_25",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"Date Selection\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_26",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element starting with text content as \"Select your Start and End Date\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_27",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with label text as \"Start Date\" and type attribute value as \"date\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_28",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with label text as \"End Date\" and type attribute value as \"date\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_29",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Previous\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_30",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Next\" and type attribute value as \"button\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_31",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in the HTML input element with the label text as \"Start Date\", then the value provided should be displayed in the HTML input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_32",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in the HTML input element with the label text as \"End Date\", then the value provided should be displayed in the HTML input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_33",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Next\" button is clicked with an empty \"Start Date\", then the page should consist of an HTML paragraph element with text content as \"Select start date\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_34",
+      "evaluation_result": "CORRECT",
+      "title": "When a valid \"Start Date\" is provided and the \"Next\" button is clicked with an empty \"End Date\", then the page should consist of an HTML paragraph element with text content as \"Select end date\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_35",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"End Date\" is less than the \"Start Date\" and the \"Next\" button is clicked, then the page should consist of an HTML paragraph element with text content as \"The end date cannot be less than the start date\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_36",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Previous\" button is clicked in the Date Selection, then the \"Your Details\" step should appear with previously filled inputs",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_37",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Previous\" button is clicked in the Date Selection, then the \"Your Details\" step should appear, and it should be active",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_38",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Previous\" button is clicked in the Date Selection, then the \"Your Details\" step should appear, and when the \"Next\" button is clicked, the \"Date Selection\" step should appear, and the completion step image should be displayed before the \"Your Details\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_39",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Start Date\" and \"End Date\" are provided and the \"Previous\" button is clicked in the Date Selection, then the \"Your Details\" step should appear, and when the \"Next\" button is clicked, the \"Start Date\" and \"End Date\" values should be previously filled inputs",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_40",
+      "evaluation_result": "CORRECT",
+      "title": "When a valid \"Start Date\" and \"End Date\" are provided and the \"Next\" button is clicked, then the page should consist of an HTML main heading element with text content as \"Guests\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_41",
+      "evaluation_result": "CORRECT",
+      "title": "When valid values are provided in the Date Selection section and clicked the Next button, then the \"Guests\" step should appear and a completion step image should be displayed before the \"Your Details\" and \"Date Selection\" steps and its alt as the values of the key \"displayText\" from the initial steps list provided and src as the given image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_42",
+      "evaluation_result": "CORRECT",
+      "title": "When valid values are provided in the Date Selection section and clicked the Next button, then the \"Guests\" step should be active",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_43",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"Guests\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_44",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element starting with text content as \"Select your guests\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_45",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Adults\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_46",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Age 13 or above\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_47",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"-\" in Adults",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_48",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"1\" in Adults",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_49",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"+\" in Adults",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_50",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Children\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_51",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Age 2-12\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_52",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"-\" in Children",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_53",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"0\" in Children",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_54",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"+\" in Children",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_55",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"Infants\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_56",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"under 2\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_57",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"-\" in Infants",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_58",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element with text content as \"0\" in Infants",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_59",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"+\" in Infants",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_60",
+      "evaluation_result": "CORRECT",
+      "title": "When the count of adults is \"1\" and the \"-\" button is clicked, then the count should not be decremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_61",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"+\" button is clicked in the Adults, the count should be incremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_62",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"-\" button is clicked in the Adults, then the count should be decremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_63",
+      "evaluation_result": "CORRECT",
+      "title": "When the count of children is \"0\" and the \"-\" button is clicked, then the count should not be decremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_64",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"+\" button is clicked in the Children, the count should be incremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_65",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"-\" button is clicked in the Children, then the count should be decremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_66",
+      "evaluation_result": "CORRECT",
+      "title": "When the count of infants is \"0\" and the \"-\" button is clicked, then the count should not be decremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_67",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"+\" button is clicked in the Infants, the count should be incremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_68",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"-\" button is clicked in the Infants, then the count should be decremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_69",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Previous\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_70",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Next\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_71",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Previous\" button is clicked in the Guests step, then the \"Date Selection\" should appear, and \"Start Date\" and \"End Date\" values should be previously filled inputs",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_72",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Previous\" button is clicked in the Guests step, then the \"Date Selection\" should appear, and it should be active",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_73",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Previous\" button is clicked in the Guests step, then the \"Date Selection\" should appear, and when the \"Next\" button is clicked, the \"Guests\" should appear, and the completion step image should be displayed before the \"Date Selection\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_74",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Guests\" count is provided and the \"Previous\" button is clicked, then the \"Date Selection\" should appear, and when the \"Next\" button is clicked, the \"Guests\" count should be previously filled inputs",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_75",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Next\" button is clicked, then the page should consist of an HTML main heading element with text content as \"Travel Assistance\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_76",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Next\" button is clicked in the \"Guests\", then the \"Travel Assistance\" should appear and a completion step image should be displayed before the \"Your Details\", \"Date Selection\" and \"Guests\" steps and its alt as the values of the key \"displayText\" from the initial steps list provided and src as the given image URL",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_77",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Next\" button is clicked in the \"Guests\", then the \"Travel Assistance\" step should be active",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_78",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"Travel Assistance\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_79",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element starting with text content as \"Select your travel assistance\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_80",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with label text as \"Travel Assistance Needed\" and type attribute value as \"checkbox\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_81",
+      "evaluation_result": "CORRECT",
+      "title": "When the checkbox input element with the label text as \"Travel Assistance Needed\" is checked, then the \"Travel Assistance\" select element should be displayed",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_82",
+      "evaluation_result": "CORRECT",
+      "title": "When the checkbox input element with the label text as \"Travel Assistance Needed\" is checked, Page should consist of an HTML option element with text content as the value of the key \"displayText\" of the first object in the travel assistance options list provided",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_83",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Travel Assistance Needed\" is checked and an option is selected in an HTML select element, then the option should be updated in the value of the select element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_84",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Previous\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_85",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Next\" and type attribute value as \"button\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_86",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Next\" button is clicked without checking the \"Travel Assistance Needed\", then the \"Confirmation\" step should appear",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_87",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Previous\" button is clicked in the Travel Assistance, then the \"Guests\" step should appear, and the \"Guests\" count values should be previously filled inputs",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_88",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Previous\" button is clicked in the Travel Assistance, then the \"Date Selection\" step should appear, and the \"Date Selection\" step should be active",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_89",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Previous\" button is clicked in the Travel Assistance, then the \"Guests\" step should appear, and when the \"Next\" button is clicked, the \"Travel Assistance\" step should appear, and the completion step image should be displayed before the \"Guests\" step",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_90",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Travel Assistance Needed\" is checked and an option is selected in an HTML select element, and the \"Previous\" button is clicked, then the \"Guests\" step should appear, and when the \"Next\" button is clicked, the \"Travel Assistance\" option should be previously filled inputs",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_91",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Next\" button is clicked, then the page should consist of an HTML main heading element with text content as \"Confirmation\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_92",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Next\" button is clicked in the \"Travel Assistance\", then the \"Confirmation\" step should appear and a completion step image should be displayed before the \"Your Details\", \"Date Selection\", \"Guests\" and \"Travel Assistance\" steps",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_93",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Next\" button is clicked in the \"Travel Assistance\", then the \"Confirmation\" step should be active",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_94",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of at least two HTML list items, and the steps should be rendered using a unique key as a prop to display each step respectively",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_95",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"Travel Trip\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_96",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of at least five HTML list items to display the multiple steps",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_97",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of the HTML elements with text content as the corresponding step number",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_98",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of the HTML paragraph elements with text content as the values of the key \"displayText\" from the Initial Steps List provided",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_99",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML main heading element with text content as \"Your Details\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_100",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML paragraph element starting with text content as \"Enter your name and location details\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_101",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML form element to display all the steps",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_102",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with label text as \"Name\" and type attribute value as \"text\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_103",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with label text as \"Start Location\" and type attribute value as \"text\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_104",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML input element with label text as \"End Location\" and type attribute value as \"text\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_105",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML button element with text content as \"Next\" and type attribute value as \"button\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_106",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in the HTML input element with the label text as \"Name\", then the value provided should be displayed in the HTML input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_107",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in the HTML input element with the label text as \"Start Location\", then the value provided should be displayed in the HTML input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_108",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in the HTML input element with the label text as \"End Location\", then the value provided should be displayed in the HTML input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_109",
+      "evaluation_result": "CORRECT",
+      "title": "When the \"Next\" button is clicked with an empty \"Name\", then the page should consist of an HTML paragraph element with text content as \"Enter your name\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_110",
+      "evaluation_result": "CORRECT",
+      "title": "When a valid \"Name\" is provided and the \"Next\" button is clicked with an empty \"Start Location\", then the page should consist of an HTML paragraph element with text content as \"Enter your start location\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_111",
+      "evaluation_result": "CORRECT",
+      "title": "When a valid \"Name\" and \"Start Location\" are provided and the \"Next\" button is clicked with an empty \"End Location\", then the page should consist of an HTML paragraph element with text content as \"Enter your end location\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_112",
+      "evaluation_result": "CORRECT",
+      "title": "When a valid \"Name\", \"Start Location\" and \"End Location\" are provided and the \"Next\" button is clicked, then the page should consist of an HTML main heading element with text content as \"Date Selection\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_113",
+      "evaluation_result": "CORRECT",
+      "title": "When valid values are provided in the Your Details section and clicked the Next button, then the page should consist of the \"Date Selection\" step and a completion step image should be displayed before the \"Your Details\" step with src as the given image URL and alt as the value of the key displayText from the initial stepsList provided",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPMLK2A_TEST_114",
+      "evaluation_result": "CORRECT",
+      "title": "When valid values are provided in the Your Details section and clicked the Next button, then the \"Date Selection\" step should be active",
+      "errorMessages": []
+    }
+  ]
+}

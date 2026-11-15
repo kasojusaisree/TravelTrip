@@ -1,0 +1,60 @@
+.steps-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0;
+  margin: 40px 0;
+}
+
+.step-item {
+  width: 140px;
+  text-align: center;
+}
+
+.step-circle {
+  width: 45px;
+  height: 45px;
+  border: 2px solid #cbd5e1;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.step-circle.active {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border: none;
+}
+
+.step-circle.upcoming {
+  background-color: #ffffff;
+  color: #64748b;
+}
+
+.success-image {
+  width: 45px;
+  height: 45px;
+}
+
+.step-name {
+  margin-top: 10px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.step-name.active {
+  color: #2563eb;
+}
+
+.step-name.completed {
+  color: #2563eb;
+}
+
+.step-name.upcoming {
+  color: #64748b;
+}

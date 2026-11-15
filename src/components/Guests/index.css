@@ -1,0 +1,78 @@
+.guests-container {
+  width: 500px;
+  margin: auto;
+}
+
+.form-heading {
+  color: #1e293b;
+  font-size: 28px;
+  margin-bottom: 25px;
+}
+
+.guest-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 18px;
+  margin-bottom: 18px;
+}
+
+.guest-card h3 {
+  margin: 0;
+  color: #334155;
+}
+
+.guest-card p {
+  margin-top: 5px;
+  color: #64748b;
+  font-size: 14px;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+}
+
+.count-btn {
+  width: 35px;
+  height: 35px;
+  border: 1px solid #cbd5e1;
+  background: white;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.count {
+  width: 40px;
+  text-align: center;
+  font-size: 18px;
+  color: #1e293b;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.previous-btn,
+.next-btn {
+  width: 110px;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.previous-btn {
+  background-color: #dbeafe;
+  color: #2563eb;
+}
+
+.next-btn {
+  background-color: #2563eb;
+  color: white;
+}
